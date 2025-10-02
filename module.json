@@ -16,10 +16,10 @@
 	"url": "https://github.com/theripper93/autoanimations",
 	"version": "5.0.0",
 	"compatibility": {
-		"minimum": "11",
+		"minimum": "12",
 		"verified": "12"
 	},
-	"minimumCoreVersion": "11",
+	"minimumCoreVersion": "12",
 	"compatibleCoreVersion": "12",
 	"scripts": [],
 	"esmodules": [
